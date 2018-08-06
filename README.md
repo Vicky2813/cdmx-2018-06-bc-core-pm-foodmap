@@ -72,7 +72,13 @@ Uber Eats es la plataforma de entrega de comida que hace que recibir comida deli
 
 ### Se realizó un Benchmark de las principales web-app de comidas:
 
-![Benchamark](./src/images/Benchmark.png)
+![Benchamark](./src/images/benchmark.png)
+
+Como siguiente paso se realizo un sketch a lapiz y papel donde se plasma a grandes rasgos la interfaz con los elementos que ayudaran con la interacción de la misma, el cuál se mostro a nuestro cliente para su aprovación.
+
+![Sketch1](./src/images/sketch1.jpg)
+
+![Sketch2](./src/images/sketch2.jpg)
 
 
 
