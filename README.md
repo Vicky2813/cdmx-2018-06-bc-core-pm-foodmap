@@ -80,9 +80,11 @@ Como siguiente paso se realizo un sketch a lapiz y papel donde se plasma a grand
 
 ![Sketch2](./src/images/sketch2.jpg)
 
+Luego de esto, se implemento un menú hamburguesa del lado superior derecho con su respectivo logo, al darle “click” en el menú se desplegará una lista donde se vera la opcion de HOME, al volver a darle “click” al menú de hamburguesa, este se ocultará dandole paso a la primera vista donde se vera el muro en el cual se podra observar una caja que te pregunta de manera muy explicita ¿Qué quieres comer? . Luego se verán distintas publicaciones de los diferentes restaurantes que esten cerca de ti, y hasta la ubicación del mismo. Luego de observar como se vería nuestra interfaz en lapiz y papel , y plasmando todos los requerimientos que se necesitaban se procedió a realizar a color  las interfaces con ayuda de Figma. Se buscó que nuestra interfaz  fuera los mas amigable posible , fácil de usar pero sobre todo fácil de entender para el usuario.
 
+ ![Figma 1](./src/images/figma1.png)
 
-
+ ![Figma 2](./src/images/figma2.png)
 
 
 #  F O O D M A P
