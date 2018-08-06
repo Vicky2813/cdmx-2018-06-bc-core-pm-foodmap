@@ -1,3 +1,13 @@
+# Introducción
+
+Una emprendedora requiere de una web-app en la que se pueda filtrar restaurantes o negocios de comida 
+
+
+
+
+
+
+
 #  F O O D M A P
 
 Crea una web-app que a través de un input pueda filtrar los restaurantes
