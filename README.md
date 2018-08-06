@@ -72,19 +72,19 @@ Uber Eats es la plataforma de entrega de comida que hace que recibir comida deli
 
 ### Se realizó un Benchmark de las principales web-app de comidas:
 
-![Benchamark](./src/images/benchmark.png)
+![Benchamark](./src/img/benchmark.png)
 
 Como siguiente paso se realizo un sketch a lapiz y papel donde se plasma a grandes rasgos la interfaz con los elementos que ayudaran con la interacción de la misma, el cuál se mostro a nuestro cliente para su aprovación.
 
-![Sketch1](./src/images/sketch1.jpg)
+![Sketch1](./src/img/sketch1.jpg)
 
-![Sketch2](./src/images/sketch2.jpg)
+![Sketch2](./src/img/sketch2.jpg)
 
 Luego de esto, se implemento un menú hamburguesa del lado superior derecho con su respectivo logo, al darle “click” en el menú se desplegará una lista donde se vera la opcion de HOME, al volver a darle “click” al menú de hamburguesa, este se ocultará dandole paso a la primera vista donde se vera el muro en el cual se podra observar una caja que te pregunta de manera muy explicita ¿Qué quieres comer? . Luego se verán distintas publicaciones de los diferentes restaurantes que esten cerca de ti, y hasta la ubicación del mismo. Luego de observar como se vería nuestra interfaz en lapiz y papel , y plasmando todos los requerimientos que se necesitaban se procedió a realizar a color  las interfaces con ayuda de Figma. Se buscó que nuestra interfaz  fuera los mas amigable posible , fácil de usar pero sobre todo fácil de entender para el usuario.
 
- ![Figma 1](./src/images/figma1.png)
+ ![Figma 1](./src/img/figma1.png)
 
- ![Figma 2](./src/images/figma2.png)
+ ![Figma 2](./src/img/figma2.png)
 
 
 #  F O O D M A P
