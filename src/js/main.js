@@ -5,6 +5,7 @@ const bodyContent = document.getElementById('body-content');
 
 document.addEventListener('DOMContentLoaded', () => {
   setTimeout(() => {
+    document.body.style.backgroundColor = 'white';
     loader.style.display = 'none';
     bodyContent.style.display = 'block';
   }, timeLoader);
