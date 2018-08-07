@@ -1,6 +1,14 @@
 body {
-  background-color: #7F6767;;
+  background-color: white;
   color:black;
+}
+
+/*  GOOGLE MAPS */
+#map {
+  height: 340px;
+  width: 100%;
+  border-radius: 7px;
+  margin: 0 0 1em 0;
 }
 
 /* NAVBAR COLOR: #4285f4 */
